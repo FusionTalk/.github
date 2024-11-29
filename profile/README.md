@@ -1,7 +1,6 @@
 # 🌟 FusionTalk 🌟
 
-🎉 **FusionTalk** is your next-generation communication platform that combines everything you love about apps like Discord — but takes it to the next level! 🚀
-🌟 With FusionTalk, you get **unlimited features**, full customization, and absolutely NO paywalls! 💸  
+🎉 **FusionTalk** is your next-generation communication platform that combines everything you love about apps like Discord — but takes it to the next level! 🚀 With FusionTalk, you get **unlimited features**, full customization, and absolutely NO paywalls! 💸  
 
 ---
 
